@@ -1,0 +1,7 @@
+Content/*
+Debug/*
+Release/*
+DirectX/*
+SpriteEngine.vcxproj
+SpriteEngine.vcxproj.filters
+SpriteEngine.vcxproj.user
